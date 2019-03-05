@@ -1,6 +1,7 @@
 {
   "name": "react-architecture-boilerplate",
   "version": "0.1.0",
+  "author": "Danilo Caetano <danilocaetano.com>",
   "private": true,
   "dependencies": {
     "react": "^16.8.3",
