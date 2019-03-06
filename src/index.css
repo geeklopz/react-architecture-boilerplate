@@ -1,0 +1,22 @@
+:root {
+  --max-width: width 100%;
+  --max-height: height 100%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  width: var(--max-width);
+  height: var(--max-height);
+  font-family: 'Helvetica';
+}
+
+#root {
+  width: var(--max-width);
+  height: var(--max-height);
+}
