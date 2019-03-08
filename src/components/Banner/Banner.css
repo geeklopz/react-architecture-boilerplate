@@ -37,6 +37,10 @@
   color: black;
 }
 
+.dalocae-bg p a {
+  color: black;
+}
+
 .dalocae-bg::before {
   content: '';
   position: absolute;
